@@ -1,0 +1,6 @@
+id: "custom.fxtwitter"
+title: "FxTwitter"
+description: "Read public X (Twitter) posts and profiles through the FxTwitter public API, with no login and no credential."
+include_in_prompt: true
+require_auth: false
+aliases: ["FixTwitter", "X post reader", "Tweet lookup"]
